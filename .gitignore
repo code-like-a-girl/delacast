@@ -1,0 +1,17 @@
+### Compiled source ###
+*.class
+
+### Logs ###
+*.log
+
+### Gradle ###
+.gradle
+/build/
+
+### IntelliJ ###
+.idea/
+
+
+### OS ###
+.DS_Store
+.DS_Store?
